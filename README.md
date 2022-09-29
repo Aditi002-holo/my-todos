@@ -1,6 +1,6 @@
 ## Todo List
 
-[Code](https://github.com/Aditi002-holo/my-todos)
+[Code](https://github.com/Aditi002-holo/my-todos) <br/>
 [URL](https://aditi002-holo.github.io/my-todos/)
 
 ### Design
