@@ -73,6 +73,7 @@ h1 {
 
 #task {
     flex-grow: 1;
+    cursor: pointer;
 }
 
 .del-btn {
@@ -84,10 +85,14 @@ h1 {
     cursor: pointer;
 }
 
-.checked {
+.task-clicked {
     text-decoration: line-through;
 }
 
+.note {
+    margin-top: 20px;
+    font-size: 12px;
+}
 
 /* input[type="checkbox"]:checked {
 some code goes here
