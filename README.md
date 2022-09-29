@@ -1,11 +1,11 @@
 ## Todo List
 
 [Code](https://github.com/Aditi002-holo/my-todos)
-[URL]()
+[URL](https://aditi002-holo.github.io/my-todos/)
 
 ### Design
 
-![](./design.JPG)
+![](./screenshot.JPG)
 
 ### What Did I Learn?
 
