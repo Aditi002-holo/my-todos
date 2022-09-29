@@ -59,7 +59,7 @@ h1 {
 
 .task-container {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: center;
     width: 500px;
     height: 40px;
@@ -69,6 +69,19 @@ h1 {
     border-radius: 5px;
     gap: 10px;
     margin: 25px 0;
+}
+
+#task {
+    flex-grow: 1;
+}
+
+.del-btn {
+    width: 30px;
+    background: inherit;
+    color: #112D4E;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
 }
 
 
