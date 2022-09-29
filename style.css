@@ -84,6 +84,10 @@ h1 {
     cursor: pointer;
 }
 
+.checked {
+    text-decoration: line-through;
+}
+
 
 /* input[type="checkbox"]:checked {
 some code goes here
