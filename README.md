@@ -1,5 +1,8 @@
 ## Todo List
 
+[Code](https://github.com/Aditi002-holo/my-todos)
+[URL]()
+
 ### Design
 
 ![](./design.JPG)
